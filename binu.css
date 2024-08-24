@@ -1,0 +1,40 @@
+#bor{
+    border:2px solid rgb(59, 33, 33);
+    height :500px;
+    width:300px;
+    margin-left: 460px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: rgb(213, 199, 221);
+}
+#res{
+    text-align: center;
+    font-size: xx-large;
+    height:50px;
+    width:290px;
+    border:1px solid rgb(45, 5, 5);
+    margin-top: 2px;
+    margin-left: 3px;
+    background-color: rgba(104, 12, 101, 0.5);
+    border-radius: 10px;
+}
+#buttons{
+    border:2px solid rgb(30, 9, 9);
+    margin-left:1pxpx;
+    background-color: rgb(9, 244, 166);
+    justify-content: space-around;
+    
+
+}
+.button{
+    height: 70px;
+    width:70px;
+    background-color: rgb(126, 253, 175);
+    justify-content: center;
+    margin-left:1opxpx;
+    margin-top:2px;
+    font-size: x-large;
+}
+.button:active{
+    background-color: rgb(185, 173, 197);
+}
